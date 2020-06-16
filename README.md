@@ -7,5 +7,6 @@ exquisite-corpse Balder
 ### Even though he lives in the Savanna
 ### And has no idea what a monarchy is
 
-
-
+*The elephant's wisdom is great*
+**just like it's body mass**
+*Is there a correlation between wisdom and mass in our universe?*
