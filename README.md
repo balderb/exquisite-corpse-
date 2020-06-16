@@ -1,5 +1,4 @@
-# exquisite-corpse-
-exquisite-corpse Balder
+# Exquisite-corpse
 
 ## King of the jungle
 
